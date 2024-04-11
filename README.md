@@ -1,6 +1,8 @@
 # Designing Machine Learning Systems Bookclub
 
-![Title Image](https://d3ddy8balm3goa.cloudfront.net/dmls/bookclub-cover.excalidraw.svg)
+<p align="center">
+  <img width="460" height="500" src="https://d3ddy8balm3goa.cloudfront.net/dmls/bookclub-cover-transparent.svg" alt="cover">
+</p>
 
 ## TL;DR
 
