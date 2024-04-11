@@ -39,19 +39,19 @@ bookclub channel.
 
 ### Presentation Schedule
 
-| Date                     | Chapter | Group Number (Name) |
-|--------------------------|---------|---------------------|
-| Saturday, April 13, 2024 | 1       | 1                   |
-| Saturday, April 20, 2024 | 2       | 8                   |
-| Saturday, April 27, 2024 | 3       | 7                   |
-| Saturday, May 4, 2024    | 4       | 2                   |
-| Saturday, May 11, 2024   | 5       | 5                   |
-| Saturday, May 18, 2024   | 6       | 4 & 12              |
-| Saturday, May 25, 2024   | 7       | 9                   |
-| Saturday, June 1, 2024   | 8       | 10                  |
-| Saturday, June 8, 2024   | 9       | 6                   |
-| Saturday, June 15, 2024  | 10      | 3                   |
-| Saturday, June 22, 2024  | 11      | 11                  |
+| Date                     | Chapter | Group Number (Name)   |
+|--------------------------|---------|-----------------------|
+| Saturday, April 13, 2024 | 1       | 1                     |
+| Saturday, April 20, 2024 | 2       | 8                     |
+| Saturday, April 27, 2024 | 3       | 7 (Team Q*)           |
+| Saturday, May 4, 2024    | 4       | 2                     |
+| Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            |
+| Saturday, May 18, 2024   | 6       | 4 & 12                |
+| Saturday, May 25, 2024   | 7       | 9                     |
+| Saturday, June 1, 2024   | 8       | 10                    |
+| Saturday, June 8, 2024   | 9       | 6 (Pablo Discobar)    |
+| Saturday, June 15, 2024  | 10      | 3                     |
+| Saturday, June 22, 2024  | 11      | 11 (TransferLearners) |
 
 ### Presentation Materials
 
