@@ -41,7 +41,7 @@ bookclub channel.
 
 | Date                     | Chapter | Group Number (Name)   |
 |--------------------------|---------|-----------------------|
-| Saturday, April 13, 2024 | 1       | 1                     |
+| Saturday, April 13, 2024 | 1       | 1 (Chad SHAPLV)       |
 | Saturday, April 20, 2024 | 2       | 6 (Pablo Discobar)    |
 | Saturday, April 27, 2024 | 3       | 7 (Team Q*)           |
 | Saturday, May 4, 2024    | 4       | 2                     |
