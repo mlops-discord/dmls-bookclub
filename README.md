@@ -48,7 +48,7 @@ bookclub channel.
 | Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            |
 | Saturday, May 18, 2024   | 6       | 4 & 12                |
 | Saturday, May 25, 2024   | 7       | 9                     |
-| Saturday, June 1, 2024   | 8       | 10                    |
+| Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    |
 | Saturday, June 8, 2024   | 9       | 8                     |
 | Saturday, June 15, 2024  | 10      | 3 (The Rule of Three) |
 | Saturday, June 22, 2024  | 11      | 11 (TransferLearners) |
