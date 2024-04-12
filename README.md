@@ -74,5 +74,5 @@ groups prepare their content for their presentations.
 ### Discord
 
 We use Chip's MLOps discord server as the main discussion forum for this bookclub.
-Join the server and check out the [#designing-ml-system-bookclub public channel](https://discord.gg/3egmFphF)
-to follow along with the progress.
+Join the server and check out the [#designing-ml-system-bookclub](https://discord.gg/3egmFphF)
+public channel to follow along with the progress.
