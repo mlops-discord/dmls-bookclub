@@ -6,8 +6,8 @@
 
 ## TL;DR
 
-- A bookclub for reading [Designing Machine Learning Systems](https://a.co/d/8QTDDFc) by the one and only [Chip Nguyen](https://huyenchip.com/).
-- The club will read a chapter a week and also meet on a weekly basis to discuss each chapter's content.
+- A bookclub for reading [Designing Machine Learning Systems](https://a.co/d/8QTDDFc) by the one and only [Chip Huyen](https://huyenchip.com/).
+- The club will read a chapter a week and also meet weekly to discuss each chapter's content.
 - The weekly sessions will be livestreamed on the dedicated YouTube channel ([@mlopslearners](https://www.youtube.com/@mlopslearners))
 
 ## Goal for this book club
