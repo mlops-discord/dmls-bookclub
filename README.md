@@ -46,7 +46,7 @@ bookclub channel.
 | Saturday, April 27, 2024 | 3       | 7 (Team Q*)           |
 | Saturday, May 4, 2024    | 4       | 2                     |
 | Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            |
-| Saturday, May 18, 2024   | 6       | 4 & 12                |
+| Saturday, May 18, 2024   | 6       | 412                   |
 | Saturday, May 25, 2024   | 7       | 9                     |
 | Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    |
 | Saturday, June 8, 2024   | 9       | 8                     |
