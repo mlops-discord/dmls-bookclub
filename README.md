@@ -39,19 +39,19 @@ bookclub channel.
 
 ### Presentation Schedule
 
-| Date                     | Chapter | Group Number (Name)   |
-|--------------------------|---------|-----------------------|
-| Saturday, April 13, 2024 | 1       | 1 (Chad SHAPLV)       |
-| Saturday, April 20, 2024 | 2       | 6 (Pablo Discobar)    |
-| Saturday, April 27, 2024 | 3       | 7 (Team Q*)           |
-| Saturday, May 4, 2024    | 4       | 2                     |
-| Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            |
-| Saturday, May 18, 2024   | 6       | 412                   |
-| Saturday, May 25, 2024   | 7       | 9 (TechWave)          |
-| Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    |
-| Saturday, June 8, 2024   | 9       | 8                     |
-| Saturday, June 15, 2024  | 10      | 3 (The Rule of Three) |
-| Saturday, June 22, 2024  | 11      | 11 (TransferLearners) |
+| Date                     | Chapter | Group Number (Name)   | Links        |
+|--------------------------|---------|-----------------------|--------------|
+| Saturday, April 13, 2024 | 1       | 1 (Chad SHAPLV)       | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter1-20240413-chad-shaplv.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=spFsPbDw7Lg) |
+| Saturday, April 20, 2024 | 2       | 6 (Pablo Discobar)    |              |
+| Saturday, April 27, 2024 | 3       | 7 (Team Q*)           |              |
+| Saturday, May 4, 2024    | 4       | 2                     |              |
+| Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            |              |
+| Saturday, May 18, 2024   | 6       | 412                   |              |
+| Saturday, May 25, 2024   | 7       | 9 (TechWave)          |              |
+| Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    |              |
+| Saturday, June 8, 2024   | 9       | 8                     |              |
+| Saturday, June 15, 2024  | 10      | 3 (The Rule of Three) |              |
+| Saturday, June 22, 2024  | 11      | 11 (TransferLearners) |              |
 
 ### Presentation Materials
 
