@@ -42,7 +42,7 @@ bookclub channel.
 | Date                     | Chapter | Group Number (Name)   | Links        |
 |--------------------------|---------|-----------------------|--------------|
 | Saturday, April 13, 2024 | 1       | 1 (Chad SHAPLV)       | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter1-20240413-chad-shaplv.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=spFsPbDw7Lg) |
-| Saturday, April 20, 2024 | 2       | 6 (Pablo Discobar)    |              |
+| Saturday, April 20, 2024 | 2       | 6 (Pablo Discobar)    | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter2-20240420-pablo-discobar.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=q7RhT39LV8E) |
 | Saturday, April 27, 2024 | 3       | 7 (Team Q*)           |              |
 | Saturday, May 4, 2024    | 4       | 2 (MLOpers)           |              |
 | Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            |              |
@@ -74,5 +74,5 @@ groups prepare their content for their presentations.
 ### Discord
 
 We use Chip's MLOps discord server as the main discussion forum for this bookclub.
-Join the server and check out the [#designing-ml-system-bookclub](https://discord.gg/3egmFphF)
+Join the server and check out the [#designing-ml-system-bookclub](https://discord.com/invite/WM4b7Q7nzp)
 public channel to follow along with the progress.
