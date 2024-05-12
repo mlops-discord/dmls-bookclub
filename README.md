@@ -45,7 +45,7 @@ bookclub channel.
 | Saturday, April 20, 2024 | 2       | 6 (Pablo Discobar)    | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter2-20240420-pablo-discobar.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=q7RhT39LV8E) |
 | Saturday, April 27, 2024 | 3       | 7 (Team Q*)           | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter3-20240427-team-qstar.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=2ryjXysW6_c) |
 | Saturday, May 4, 2024    | 4       | 2 (MLOpers)           | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter4-20240504-mlopers.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=2xnYrib3tgI) |
-| Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter5-20240511-rec5ys.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=hPicVDdMbYM) ◦ [GenAIRecsys](https://docs.google.com/presentation/d/1lV_RQuHFLcBW6-H9B1T0Y0AnSOS55LLfOAnDrFOqU0E/)|
+| Saturday, May 11, 2024   | 5       | 5 (Rec5ys)            | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter5-20240511-rec5ys.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=hPicVDdMbYM) ◦ [Bonus: GenAIRecSys](https://docs.google.com/presentation/d/1lV_RQuHFLcBW6-H9B1T0Y0AnSOS55LLfOAnDrFOqU0E/)|
 | Saturday, May 18, 2024   | 6       | 412                   |              |
 | Saturday, May 25, 2024   | 7       | 9 (TechWave)          |              |
 | Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    |              |
