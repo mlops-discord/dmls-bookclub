@@ -49,7 +49,7 @@ bookclub channel.
 | Saturday, May 18, 2024   | 6       | 4 (Crickets)          | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter6-20240518-crickets.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=JrgqA3xL8AY) |
 | Saturday, May 25, 2024   | 7       | 9 (TechWave/B-Team)   | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter7-20240525-bteam.pdf) ◦ [YouTube](https://www.youtube.com/live/C_140NJfNtE?t=232s) |
 | Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter8-20240601-manifoldminds.pdf) ◦ [YouTube](https://www.youtube.com/live/X8OOgKFhg4g) |
-| Saturday, June 8, 2024   | 9       | 8  (ML Mavericks)     | [Slides](https://github.com/shivalikasingh95/dmls-bookclub/blob/group8/slides/chapter9-20240608-mlmavericks.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=pVUav52lnoY) |
+| Saturday, June 8, 2024   | 9       | 8  (ML Mavericks)     | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter9-20240608-mlmavericks.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=pVUav52lnoY) |
 | Saturday, June 15, 2024  | 10      | 3 (The Rule of Three) |              |
 | Saturday, June 22, 2024  | 11      | 11 (TransferLearners) |              |
 
