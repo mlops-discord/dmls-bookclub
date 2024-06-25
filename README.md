@@ -50,8 +50,8 @@ bookclub channel.
 | Saturday, May 25, 2024   | 7       | 9 (TechWave/B-Team)   | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter7-20240525-bteam.pdf) ◦ [YouTube](https://www.youtube.com/live/C_140NJfNtE?t=232s) |
 | Saturday, June 1, 2024   | 8       | 10 (ManifoldMinds)    | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter8-20240601-manifoldminds.pdf) ◦ [YouTube](https://www.youtube.com/live/X8OOgKFhg4g) |
 | Saturday, June 8, 2024   | 9       | 8  (ML Mavericks)     | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter9-20240608-mlmavericks.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=pVUav52lnoY) |
-| Saturday, June 15, 2024  | 10      | 3 (The Rule of Three) | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter10-20240615-theRuleOfThree.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=jci0GnWbD3c)             |
-| Saturday, June 22, 2024  | 11      | 11 (TransferLearners) |              |
+| Saturday, June 15, 2024  | 10      | 3 (The Rule of Three) | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter10-20240615-theRuleOfThree.pdf) ◦ [YouTube](https://www.youtube.com/watch?v=jci0GnWbD3c) |
+| Saturday, June 22, 2024  | 11      | 11 (TransferLearners) | [Slides](https://github.com/mlops-discord/dmls-bookclub/blob/main/slides/chapter11-20240622-transferlearners.pdf) ◦ [YouTube](https://www.youtube.com/live/g_KzDo-IgZg)|
 
 ### Presentation Materials
 
